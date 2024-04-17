@@ -1,0 +1,7 @@
+Nombre: Luciano Ariel  
+Apellido:Moyano
+Altura:1.73
+Edad:28
+Peso:73
+colorPreferido:azul
+d.n.i: 39336687
